@@ -1,1 +1,1 @@
-# Backend Course react + node
+# Backend Course react + Node JS
